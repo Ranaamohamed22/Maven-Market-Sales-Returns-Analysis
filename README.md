@@ -37,16 +37,16 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 ## Screenshots
 
 ### Dashboard Pages
-![Overview](Screenshots/overview.png)
-![Sales](Screenshots/sales.png)
-![Customers](Screenshots/customers.png)
-![Products](Screenshots/products.png)
-![Returns](Screenshots/returns.png)
+![Overview](Screenshots/over View.png)
+![Sales](Screenshots/Sales.png)
+![Customers](Screenshots/Customers.png)
+![Products](Screenshots/Products.png)
+![Returns](Screenshots/Returns.png)
 
 ### Technical Details
 ![Data Model](Screenshots/data_model.png)
 ![Power Query](Screenshots/power_query.png)
-![DAX Measures](Screenshots/dax_measures.png)
+
 
 ## Tools Used
 - Power BI
