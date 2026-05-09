@@ -51,6 +51,9 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 - DAX
 - Data Modeling
 
+## Download
+- [Maven Market Report (.pbix)](Maven_Market_Report.pbix)
+  
 ## Connect with Me
 - LinkedIn: [Rana Mohamed](https://linkedin.com/in/ranamohamed2r)
 - GitHub: [Ranaamohamed22](https://github.com/Ranaamohamed22)
