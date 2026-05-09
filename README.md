@@ -20,12 +20,12 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 ## Technical Architecture
 
 ### Data Model
-![Data Model](Screenshots/data_model.png)
+![Data Model](Screenshots/Data_Model.png)
 - Star schema with fact and dimension tables
 - Relationships between Sales, Customers, Products, and Returns
 
 ### Power Query Transformations
-![Power Query](Screenshots/power_query.png)
+![Power Query](Screenshots/power_Query.png)
 - Data cleaning and transformation steps
 - Custom columns and calculated fields
 
@@ -34,7 +34,7 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 ## Screenshots
 
 ### Dashboard Pages
-![Overview](Screenshots/over_View.png)
+![Overview](Screenshots/Over_View.png)
 ![Sales](Screenshots/Sales.png)
 ![Customers](Screenshots/Customers.png)
 ![Products](Screenshots/Products.png)
