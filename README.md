@@ -25,7 +25,7 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 - Relationships between Sales, Customers, Products, and Returns
 
 ### Power Query Transformations
-![Power Query](Screenshots/powerQuery.png)
+![Power Query](Screenshots/PowerQuery.png)
 - Data cleaning and transformation steps
 - Custom columns and calculated fields
 
