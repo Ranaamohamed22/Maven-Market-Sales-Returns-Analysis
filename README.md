@@ -29,15 +29,12 @@ Interactive Power BI dashboard analyzing **$1.76M revenue** and **$1.05M profit*
 - Data cleaning and transformation steps
 - Custom columns and calculated fields
 
-### DAX Measures
-![DAX Measures](Screenshots/dax_measures.png)
-- Custom KPIs and calculated metrics
-- Time intelligence functions
+
 
 ## Screenshots
 
 ### Dashboard Pages
-![Overview](Screenshots/over View.png)
+![Overview](Screenshots/over_View.png)
 ![Sales](Screenshots/Sales.png)
 ![Customers](Screenshots/Customers.png)
 ![Products](Screenshots/Products.png)
